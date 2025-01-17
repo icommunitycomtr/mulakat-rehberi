@@ -1,2 +1,2 @@
 # Case Study
-Case Study'ler buraya folder olarak eklenecek.
+Case Study'ler buraya PDF olarak eklenecek.
