@@ -10,8 +10,19 @@ Mülakatta sorulan teknik sorular dışındaki tüm sorular.
 ### Teknik
 Mülakatta sorulan sadece teknik sorular.
 
-## Sorular
+## Teknik Sorular
+- [1 - Class ve Struct’ın Farkları](#1---class-ve-structın-farkları)
+- [2 - Protocol-Oriented Programming (POP) vs. Object-Oriented Programming (OOP)](#2---protocol-oriented-programming-pop-vs-object-oriented-programming-oop)
+- [3 - Uygulamanın Yaşam Döngüsü (App Lifecycle)](#3---uygulamanın-yaşam-döngüsü-app-lifecycle)
+- [4 - ViewController’ın Yaşam Döngüsü (View Lifecycle)](#4---viewcontrollerın-yaşam-döngüsü-view-lifecycle)
+- [5 - Extension Nedir? Neden, Nasıl ve Ne Zaman Kullanılır?](#5---extension-nedir-neden-nasıl-ve-ne-zaman-kullanılır)
 - [6 - Escaping ve Non-Escaping Closures Nedir?](#6---escaping-ve-non-escaping-closures-nedir)
+- [7 - Array, Set, Dictionary Arasındaki Fark Nedir?](#7---array-set-dictionary-arasındaki-fark-nedir)
+- [8 - High Order Functions Nelerdir?](#8---high-order-functions-nelerdir)
+- [9 - ARC (Automatic Reference Counting) Nedir? Ne İşe Yarar?](#9---arc-automatic-reference-counting-nedir-ne-işe-yarar)
+- [10 - Optional ve Unwrap Nedir? Ne İşe Yarar?](#10---optional-ve-unwrap-nedir-ne-işe-yarar)
+- [11 - Access Level (Erişim Seviyeleri) Nedir?](#11---access-level-erişim-seviyeleri-nedir)
+- [12 - SOLID Prensipleri](#12---solid-prensipleri)
 
 
 # 1 - Class ve Struct’ın Farkları
