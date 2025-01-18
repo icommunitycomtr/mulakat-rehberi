@@ -1,16 +1,14 @@
 # Mülakat Rehberi
 
-## Sorular
-
-### Genel
+## Genel
 Mülakatta sorulan teknik sorular dışındaki tüm sorular.
 
 * Maaş beklentin nedir
 
-### Teknik
+## Teknik
 Mülakatta sorulan sadece teknik sorular.
 
-## Teknik Sorular
+### Sorular
 - [1 - Class ve Struct’ın Farkları](#1---class-ve-structın-farkları)
 - [2 - Protocol-Oriented Programming (POP) vs. Object-Oriented Programming (OOP)](#2---protocol-oriented-programming-pop-vs-object-oriented-programming-oop)
 - [3 - Uygulamanın Yaşam Döngüsü (App Lifecycle)](#3---uygulamanın-yaşam-döngüsü-app-lifecycle)
