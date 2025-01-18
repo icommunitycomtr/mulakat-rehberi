@@ -17,8 +17,8 @@ Mülakatta sorulan sadece teknik sorular.
 - [6 - Escaping ve Non-Escaping Closures Nedir?](#6---escaping-ve-non-escaping-closures-nedir)
 - [7 - Array, Set, Dictionary Arasındaki Fark Nedir?](#7---array-set-dictionary-arasındaki-fark-nedir)
 - [8 - High Order Functions Nelerdir?](#8---high-order-functions-nelerdir)
-- [9 - ARC (Automatic Reference Counting) Nedir? Ne İşe Yarar?](#9---arc-automatic-reference-counting-nedir-ne-işe-yarar)
-- [10 - Optional ve Unwrap Nedir? Ne İşe Yarar?](#10---optional-ve-unwrap-nedir-ne-işe-yarar)
+- [9 - ARC (Automatic Reference Counting) Nedir? Ne İşe Yarar?](#9---arc-automatic-reference-counting-nedir-ne-i̇şe-yarar)
+- [10 - Optional ve Unwrap Nedir? Ne İşe Yarar?](#10---optional-ve-unwrap-nedir-ne-i̇şe-yarar)
 - [11 - Access Level (Erişim Seviyeleri) Nedir?](#11---access-level-erişim-seviyeleri-nedir)
 - [12 - SOLID Prensipleri](#12---solid-prensipleri)
 
